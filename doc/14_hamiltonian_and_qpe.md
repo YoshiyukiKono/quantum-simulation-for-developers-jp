@@ -52,6 +52,8 @@ QPEは単体のアルゴリズムではありません。
 
 genui{"math_block_widget_always_prefetch_v2": {"content": "U = e^{-iHt}"}}
 
+$$ U = e^{-iHt} $$
+
 を実装する必要があります。
 
 ここで登場するのが：
